@@ -1,3 +1,0 @@
-after-clean::
-	@-$(RM) -rf Source/DBusKit.framework
-	@-$(RM) -rf Source/derived_src
